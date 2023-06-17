@@ -8,12 +8,3 @@ d3 = n // 100
 print("Сумма цифр числа:", d1 + d2 + d3)
 
 
-fgn dkjfng df
-fgn dkjfng df
-fgn dkjfng df
-fgn dkjfng df
-fgn dkjfng df
-fgn dkjfng df
-fgn dkjfng df
-fgn dkjfng df
-fgn dkjfng df
